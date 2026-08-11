@@ -10,4 +10,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2733-neither-minimum-nor-maximum](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
+## Math
+|  |
+| ------- |
+| [2651-calculate-delayed-arrival-time](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
 <!---LeetCode Topics End-->
