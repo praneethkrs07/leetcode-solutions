@@ -4,5 +4,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2733-neither-minimum-nor-maximum](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/praneethkrs07/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+## Sorting
+|  |
+| ------- |
+| [2733-neither-minimum-nor-maximum](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 <!---LeetCode Topics End-->
