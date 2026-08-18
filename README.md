@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2733-neither-minimum-nor-maximum](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/praneethkrs07/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Sorting
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -49,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Counting
 |  |
 | ------- |
