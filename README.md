@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2651-calculate-delayed-arrival-time](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0292-nim-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
