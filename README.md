@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2651-calculate-delayed-arrival-time](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/praneethkrs07/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
 |  |
 | ------- |
