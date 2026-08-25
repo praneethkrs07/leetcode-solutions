@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/praneethkrs07/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/praneethkrs07/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/praneethkrs07/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/praneethkrs07/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/praneethkrs07/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2651-calculate-delayed-arrival-time](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/praneethkrs07/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/praneethkrs07/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
 |  |
