@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0867-transpose-matrix](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [2029-stone-game-ix](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
