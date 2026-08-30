@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0867-transpose-matrix](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
