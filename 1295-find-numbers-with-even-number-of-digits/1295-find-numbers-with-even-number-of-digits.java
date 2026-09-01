@@ -1,16 +1,16 @@
 class Solution {
     public int findNumbers(int[] nums) {
-        int count = 0;
-        for(int i:nums){
-        int digit=0;
-           while(i>0){
-            i=i/10;
-            digit++;
-          }
-            if(digit%2==0){
+        int count=0;
+        for(int arr:nums){
+            int di=0;
+            while(arr>0){
+                arr=arr/10;
+                di++;
+            }
+            if(di%2==0){
                 count++;
-          }
+            }
         }
-        return count;
+       return count;
     }
 }
