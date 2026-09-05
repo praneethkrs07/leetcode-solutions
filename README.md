@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0292-nim-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -155,10 +156,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
