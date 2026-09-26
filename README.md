@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
