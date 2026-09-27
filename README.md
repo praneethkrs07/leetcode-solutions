@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0620-not-boring-movies](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
