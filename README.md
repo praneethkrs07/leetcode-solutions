@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0136-single-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -220,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
