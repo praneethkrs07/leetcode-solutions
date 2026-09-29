@@ -1,2 +1,4 @@
-select a.name AS Employee from Employee a  JOIN Employee b 
-on a.managerId=b.id Where b.salary < a.salary;
+SELECT a.name AS Employee 
+FROM Employee e
+INNER JOIN Employee a
+on e.id=a.managerId where e.salary <a.salary;
