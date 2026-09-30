@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0053-maximum-subarray) |
 ## Prefix Sum
 |  |
