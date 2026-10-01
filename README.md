@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0541-reverse-string-ii) |
@@ -236,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
