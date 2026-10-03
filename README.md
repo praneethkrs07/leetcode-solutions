@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2367-number-of-arithmetic-triplets](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2733-neither-minimum-nor-maximum](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/praneethkrs07/leetcode-solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2367-number-of-arithmetic-triplets](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/praneethkrs07/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0541-reverse-string-ii) |
+| [2367-number-of-arithmetic-triplets](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
