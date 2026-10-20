@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2235-add-two-integers](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2651-calculate-delayed-arrival-time](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/praneethkrs07/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/praneethkrs07/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
