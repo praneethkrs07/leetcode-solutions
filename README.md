@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2574-left-and-right-sum-differences](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/praneethkrs07/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/praneethkrs07/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/praneethkrs07/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Pigeonhole Principle
