@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0867-transpose-matrix](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Matrix
 |  |
 | ------- |
