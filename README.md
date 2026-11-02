@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0292-nim-game) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/praneethkrs07/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/praneethkrs07/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
